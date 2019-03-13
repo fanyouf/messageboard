@@ -1,0 +1,23 @@
+{
+  "name": "messageboard",
+  "version": "1.0.0",
+  "description": "messageboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanyoufu/messageboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanyoufu/messageboard/issues"
+  },
+  "homepage": "https://github.com/fanyoufu/messageboard#readme",
+  "devDependencies": {
+    "@types/node": "^11.11.3"
+  }
+}

@@ -1,0 +1,35 @@
+html,body{
+    font-size: 14px;
+}
+
+#messagecontent{
+    margin:50px auto;
+    width: 50rem;
+}
+
+.message{
+    margin-bottom:10px;
+    padding:2rem;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+    border:1px solid #ccc;
+    display: flex;
+    flex-direction: column
+}
+.message span {
+    align-self: flex-end;
+}
+
+form{
+    box-sizing: border-box;
+    width: 50rem;
+    margin:5px auto;
+    border:1px solid #ccc;
+    padding:2rem;
+}
+form textarea{
+    display: block;
+    height: 5rem;
+    width: 100%;
+    margin-top:5px;
+    margin-bottom:5px;
+}
